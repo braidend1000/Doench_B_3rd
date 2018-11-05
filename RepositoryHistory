@@ -1,0 +1,27 @@
+    1  adduser br@idenD
+    2  adduser braidend1000
+    3  passwd braidend1000
+    4  sudo braidend1000 -aG wheel braidend1000
+    5  sudo usermod -aG wheel braidend1000
+    6  exit
+    7  sudo adduser Username123
+    8  passwd Username123
+    9  sudo gpasswd -a Username123 wheel
+   10  sudo man
+   11  sudo some command
+   12  sudo adduser SPS
+   13  visudo
+   14  cd
+   15  pwd
+   16  ls
+   17  ./netbeans-8.2-linux.sh 
+   18  adduser joshua
+   19  passwd joshua
+   20  cd /root
+   21  ls
+   22  ./netbeans-8.2-linux.sh 
+   23  netbeans
+   24  ip addr
+   25  ifconfig
+   26  su
+   27  history
